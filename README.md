@@ -1,7 +1,8 @@
 #📅 Calendar Display App Using Python
 A visually enhanced calendar application built with Python and the Rich library. This project prints a beautiful and color-coded calendar for any given month and year in the terminal. Perfect for beginners exploring Python scripting, terminal UI design, and date-time operations.
 
-![IMAGE ](https://github.com/ShivanisharmaF128/Text_to_speech_using-_python/blob/main/text%20to%20speech.png)
+
+![IMAGE ](https://github.com/ShivanisharmaF128/Calendar-_using-python/blob/main/output.jfif)
 
 ---
 
